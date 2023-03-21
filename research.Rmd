@@ -2,10 +2,10 @@
 title: "Research experience"
 ---
 
-** Research interest ** 
+**Research interest** 
 
 Conformal inference, spatial statistics, multi armed bandit.
 
-** Publication **
+**Publication**
 
 1. Qi, Yongcheng, and Yingchao Zhou. "Empirical likelihood method for complete independence test on high-dimensional data." Journal of Statistical Computation and Simulation 92.11 (2022): 2386-2402.
