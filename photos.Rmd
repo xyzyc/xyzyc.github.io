@@ -1,0 +1,5 @@
+---
+title: "Photos"
+---
+
+![mallard ducks in Duluth](./pics/duck.jpg)

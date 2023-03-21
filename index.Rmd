@@ -1,5 +1,15 @@
 ---
-title: "My Website"
+title: "Yingchao Zhou"
 ---
 
-Hello, Website!
+I am a PhD student in Statistics at Iowa State University. My advisers are Dr. Zhengyuan Zhu (Department of Statistics) and Dr. Kevin Liu (Department of Electrical and Computer Engineering, Ohio State University).
+
+I receive support from the Center for Survey Statistics and Methodology (CSSM) for my work as a research assistant.
+
+** Education **
+
+PhD in Statistics, Iowa State University, 2020 -- 
+
+MS in Mathematical Science, University of Minnesota Duluth, 2018 -- 2020.
+
+BS in Mathematical Science, Peking University, 2014 -- 2018.

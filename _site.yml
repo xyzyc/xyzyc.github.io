@@ -5,3 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Photos"
+      href: photos.html
