@@ -2,13 +2,11 @@
 title: "Yingchao Zhou"
 ---
 
-I am a PhD student in Statistics at Iowa State University. My advisers are Dr. Zhengyuan Zhu (Department of Statistics) and Dr. Kevin Liu (Department of Electrical and Computer Engineering, Ohio State University).
-
-I receive support from the Center for Survey Statistics and Methodology (CSSM) for my work as a research assistant.
+I am a PhD student in Statistics at Iowa State University. I currently work with Dr. Dan Nordman on time series and resampling (bootstrap, empirical likelihood and repro).
 
 **Education**
 
-PhD in Statistics, Iowa State University, 2020 -- 
+PhD in Statistics, Iowa State University, 2020 -- 2026 (expected)
 
 MS in Mathematical Science, University of Minnesota Duluth, 2018 -- 2020.
 

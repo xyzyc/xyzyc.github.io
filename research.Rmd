@@ -4,8 +4,14 @@ title: "Research experience"
 
 **Research interest** 
 
-Conformal inference, spatial statistics, multi armed bandit.
+Dependent data(time series), resampling methods(bootstrap, empirical likelihood, repro), conformal inference, multi armed bandit.
 
 **Publication**
 
-1. Qi, Yongcheng, and Yingchao Zhou. "Empirical likelihood method for complete independence test on high-dimensional data." Journal of Statistical Computation and Simulation 92.11 (2022): 2386-2402.
+1. Yongcheng Qi and Yingchao Zhou. "Empirical likelihood method for complete independence test on high-dimensional data." Journal of Statistical Computation and Simulation 92.11 (2022): 2386-2402.
+
+**Working paper**
+
+2. Yingchao Zhou, Jia Liu and Zhengyuan Zhu. Maximizing Benefits under Harm Constraints: A Generalized Linear Contextual Bandit Approach.
+
+3. Yingchao Zhou, Haihan Yu and Daniel J. Nordman. Spectral Empirical Likelihood Method for Time Series with a Focus on Whittle Estimation.
